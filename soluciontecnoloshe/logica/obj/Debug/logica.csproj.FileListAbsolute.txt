@@ -1,0 +1,11 @@
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\logica\bin\Debug\logica.dll
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\logica\bin\Debug\logica.pdb
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\logica\bin\Debug\datos.dll
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\logica\bin\Debug\entidades.dll
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\logica\bin\Debug\datos.pdb
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\logica\bin\Debug\entidades.pdb
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\logica\obj\Debug\logica.csprojAssemblyReference.cache
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\logica\obj\Debug\logica.csproj.CoreCompileInputs.cache
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\logica\obj\Debug\logica.csproj.CopyComplete
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\logica\obj\Debug\logica.dll
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\logica\obj\Debug\logica.pdb

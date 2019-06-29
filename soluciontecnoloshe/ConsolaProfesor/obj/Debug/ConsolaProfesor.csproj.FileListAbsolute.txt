@@ -1,0 +1,14 @@
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\ConsolaProfesor\obj\Debug\ConsolaProfesor.csprojAssemblyReference.cache
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\ConsolaProfesor\obj\Debug\ConsolaProfesor.csproj.CoreCompileInputs.cache
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\ConsolaProfesor\bin\Debug\ConsolaProfesor.exe.config
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\ConsolaProfesor\bin\Debug\ConsolaProfesor.exe
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\ConsolaProfesor\bin\Debug\ConsolaProfesor.pdb
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\ConsolaProfesor\bin\Debug\entidades.dll
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\ConsolaProfesor\bin\Debug\logica.dll
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\ConsolaProfesor\bin\Debug\datos.dll
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\ConsolaProfesor\bin\Debug\entidades.pdb
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\ConsolaProfesor\bin\Debug\logica.pdb
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\ConsolaProfesor\bin\Debug\datos.pdb
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\ConsolaProfesor\obj\Debug\ConsolaProfesor.csproj.CopyComplete
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\ConsolaProfesor\obj\Debug\ConsolaProfesor.exe
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\ConsolaProfesor\obj\Debug\ConsolaProfesor.pdb

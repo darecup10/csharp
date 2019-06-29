@@ -1,0 +1,9 @@
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\datos\bin\Debug\datos.dll
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\datos\bin\Debug\datos.pdb
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\datos\bin\Debug\entidades.dll
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\datos\bin\Debug\entidades.pdb
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\datos\obj\Debug\datos.csprojAssemblyReference.cache
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\datos\obj\Debug\datos.csproj.CoreCompileInputs.cache
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\datos\obj\Debug\datos.csproj.CopyComplete
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\datos\obj\Debug\datos.dll
+C:\Users\t11641.training40\Desktop\Darelis\csharp\soluciontecnoloshe\datos\obj\Debug\datos.pdb
