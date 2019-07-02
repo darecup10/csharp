@@ -1,4 +1,4 @@
-﻿
+﻿using System.Data;
 
 namespace logica
 {
@@ -17,5 +17,17 @@ namespace logica
             datos.Alumno objAlumno = new datos.Alumno();
             objAlumno.Agregar(pAlumno);
         }
+
+        public DataTable TraerTodos()
+            {
+                 
+            datos.Alumno objDatos = new datos.Alumno();
+            return objDatos.TraerTodos();
+
+        
+            }
+
     }
+
+    
 }
